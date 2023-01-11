@@ -1,6 +1,6 @@
 <h4 align="center">
     
-![1599d7107019725 5f9d3c7bae636](https://user-images.githubusercontent.com/109745342/210119198-cd263396-2f94-4c54-a15e-5f0c2c9392d6.gif)
+![8351153](https://user-images.githubusercontent.com/109745342/211687644-6db229a5-c3f6-4d3b-b005-23a48754837b.gif)
 
 <hr>
 <br>
@@ -34,9 +34,9 @@
 
 ## 📋 My GitHub stats:
 <div style="display: inline-block">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
     <a href="https://github.com/evelynlacerda">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=omni"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=bear"/>
 
 </div>
 
