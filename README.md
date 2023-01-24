@@ -34,7 +34,7 @@
 
 <br>
 
-## 📋 My GitHub stats:
+## 📋 Stats and Languages:
 <div style="display: inline-block">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
     <a href="https://github.com/evelynlacerda">
