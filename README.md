@@ -16,12 +16,6 @@
     <img align="center" alt="CSS3" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="Git" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="JavaScript" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div></h4>
-    
-<br>
-
-<h4 align="center">💻 Technologies I'll study:</h4>
-<h4 align="center"><div style="display: inline_block">
     <img align="center" alt="React" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="Bootstrap" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
     <img align="center" alt="Redux" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
