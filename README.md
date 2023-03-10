@@ -10,7 +10,7 @@
 <h1 align="center">✨ Welcome to my GitHub! ✨</h1>
 <br>
 
-<h4 align="center">💻 Technologies I've been studying:</h4>
+<h3 align="center">💻 Technologies I've been studying:</h3>
 <h4 align="center"><div style="display: inline_block">
     <img align="center" alt="HTML5" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="CSS3" width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
