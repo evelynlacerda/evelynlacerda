@@ -28,11 +28,10 @@
 
 <h1 align="center">📋 Stats and Languages:</h1>
 <p align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-    <a href="https://github.com/evelynlacerda">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=bear"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&include_all_commits=true&count_private=true&theme=bear&border_radius=4&border=A59C7D">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=bear&border_radius=4&border=A59C7D"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=bear&border_radius=4&border=A59C7D">
 </p>
-
 <br>
 
 ![Snake animation](https://github.com/evelynlacerda/evelynlacerda/blob/output/github-contribution-grid-snake.svg)
