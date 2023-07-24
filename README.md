@@ -1,3 +1,7 @@
+<h1 align="center">‹ Welcome to my GitHub! ›</h1>
+
+<br>
+
 <h4 align="center">
     
 ![941fa063265225 5aaabe4e442fc](https://user-images.githubusercontent.com/109745342/211724447-dc47f63b-7e98-4261-93ff-3ffc8151d9ff.gif)
@@ -6,8 +10,8 @@
 
 <a href="https://instagram.com/evycode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/evelynlacerda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:evelyndslacerda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </h4>
+<h1>⠀⠀⠀⠀</h1>
 
-<h1 align="center">✨ Welcome to my GitHub! ✨</h1>
 <br>
 
 <h3 align="center">💻 Technologies I've been studying:</h3>
@@ -26,15 +30,17 @@
 
 <br>
 
-<h1 align="center">📋 Stats and Languages:</h1>
+<h3 align="center">📋 Stats and Languages:</h3>
 <p align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&include_all_commits=true&count_private=true&theme=bear&border_radius=4&border=A59C7D">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=bear&border_radius=4&border=A59C7D"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=bear&border_radius=4&border=A59C7D">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&include_all_commits=true&count_private=true&theme=date_night&border_radius=4&border=A59C7D">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=date_night&border_radius=4&border=A59C7D"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=date_night&border_radius=4&border=da7885">
 </p>
+
+<h1>⠀⠀⠀⠀</h1>
 <br>
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/evelynlacerda/evelynlacerda/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/evelynlacerda/evelynlacerda/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/evelynlacerda/evelynlacerda/blob/output/github-contribution-grid-snake.svg" />
