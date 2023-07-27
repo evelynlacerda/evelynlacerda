@@ -1,3 +1,8 @@
+<h6 align="center">
+
+![catsleep2](https://github.com/evelynlacerda/evelynlacerda/assets/109745342/2abea0b5-23c7-4131-9ec2-5da4118d4c53)
+
+</h6>
 <h1 align="center">✨ Welcome to my GitHub! ✨</div></h1>
 <h4 align="center">
     
