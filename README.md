@@ -34,9 +34,9 @@
 
 <h3 align="center">📋 My Github Stats:</h3>
 <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=date_night&border_radius=4&border=170f0c"><br>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&include_all_commits=true&count_private=true&theme=date_night&border_radius=4&border=A59C7D">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=date_night&border_radius=4&border=A59C7D"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=discord-old-blurple&border_radius=4&hide_border=true&mode=weekly"><br>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&include_all_commits=true&count_private=true&theme=discord_old_blurple&border_radius=none&hide_border=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=discord_old_blurple&border_radius=none&hide_border=true"/>
 </p>
 
 <br>
