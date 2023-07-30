@@ -6,7 +6,7 @@
 <h1 align="center">✨ Welcome to my GitHub! ✨</div></h1>
 <h4 align="center">
     
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevelynlacerda&countColor=%2352ac96)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevelynlacerda&labelColor=%23252525&countColor=%2352ac96)
 
 </h4>
 
@@ -61,7 +61,7 @@
 
 <h4 align="center">
     <img height="32" width="32" src="https://badges.pufler.dev/contributors/evelynlacerda/evelynlacerda?size=50&padding=5&perRow=10&bots=true" />&nbsp&nbsp&nbsp
-    <a href="https://instagram.com/evycode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/evycode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23252525?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/evelynlacerda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:evelyndslacerda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </h4>
