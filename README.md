@@ -61,7 +61,7 @@
 
 <h4 align="center">
     <img height="32" width="32" src="https://badges.pufler.dev/contributors/evelynlacerda/evelynlacerda?size=50&padding=5&perRow=10&bots=true" />&nbsp&nbsp&nbsp
-    <a href="https://instagram.com/evycode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23252525?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/evelynlacerda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:evelyndslacerda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/evycode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230c1014?style=for-the-badge&logo=instagram&logoColor=e4405f" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/evelynlacerda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230c1014?style=for-the-badge&logo=linkedin&logoColor=0a66c2" target="_blank"></a>
+    <a href = "mailto:evelyndslacerda@gmail.com"><img src="https://img.shields.io/badge/Gmail-0c1014?style=for-the-badge&logo=gmail&logoColor=ea4335" target="_blank"></a>
 </h4>
