@@ -6,9 +6,8 @@
 <h1 align="center">✨ Welcome to my GitHub! ✨</div></h1>
 <h4 align="center">
     
-[![Visits Badge](https://badges.pufler.dev/visits/evelynlacerda/badge-it)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/evelynlacerda)](https://badges.pufler.dev)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevelynlacerda%2Fevelynlacerda&label=Visits&countColor=%2352ac96&style=flat&labelStyle=none)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/evelynlacerda?color=52AC96)
 </h4>
 
 <br>
@@ -34,9 +33,9 @@
 
 <h3 align="center">📋 My Github Stats:</h3>
 <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=discord-old-blurple&border_radius=4&hide_border=true&mode=weekly"><br>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&include_all_commits=true&count_private=true&theme=discord_old_blurple&border_radius=none&hide_border=true">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=discord_old_blurple&border_radius=none&hide_border=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=gotham&border_radius=4&hide_border=true&mode=weekly"><br>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&border_radius=none&hide_border=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=gotham&border_radius=none&hide_border=true"/>
 </p>
 
 <br>
