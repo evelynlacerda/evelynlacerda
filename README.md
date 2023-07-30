@@ -1,12 +1,12 @@
 <h6 align="center">
 
-![catsleep2](https://github.com/evelynlacerda/evelynlacerda/assets/109745342/2abea0b5-23c7-4131-9ec2-5da4118d4c53)
+![GhostGlass2](https://github.com/evelynlacerda/evelynlacerda/assets/109745342/fc08e03a-683f-4537-99df-2118d3a69774)
 
 </h6>
 <h1 align="center">✨ Welcome to my GitHub! ✨</div></h1>
 <h4 align="center">
     
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevelynlacerda&labelColor=%23252525&countColor=%2352ac96)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevelynlacerda&labelColor=%230c1014&countColor=%2352ac96)
 
 </h4>
 
@@ -14,19 +14,19 @@
 
 <h3 align="center">💻 Technologies I've been studying:</h3>
 <h4 align="center"><div style="display: inline_block">
-    <img align="center" alt="Figma" height="32" width="40" src="https://cdn.simpleicons.org/figma/202020/efefef" />
+    <img align="center" alt="Figma" height="32" width="40" src="https://cdn.simpleicons.org/figma/cc5b4e" />
     <img align="center" alt="Git" height="32" width="40" src="https://cdn.simpleicons.org/git" />
     <img align="center" alt="HTML5" height="32" width="40" src="https://cdn.simpleicons.org/html5" />
     <img align="center" alt="CSS3" height="32" width="40" src="https://cdn.simpleicons.org/css3" />
-    <img align="center" alt="Bootstrap" height="40" width="48" src="https://cdn.simpleicons.org/bootstrap/dddddd/404040" />
-    <img align="center" alt="JavaScript" height="32" width="40" src="https://cdn.simpleicons.org/javascript/dddddd/404040" />
-    <img align="center" alt="React" height="32" width="40" src="https://cdn.simpleicons.org/react/dddddd/404040" />
-    <img align="center" alt="Redux" height="32" width="40" src="https://cdn.simpleicons.org/redux/dddddd/404040" />
-    <img align="center" alt="TypeScript" height="32" width="40" src="https://cdn.simpleicons.org/typescript/dddddd/404040" />
-    <img align="center" alt="Sass" height="32" width="40" src="https://cdn.simpleicons.org/sass/dddddd/404040" />
-    <img align="center" alt="Angular" height="32" width="40" src="https://cdn.simpleicons.org/angular/dddddd/404040" />
-    <img align="center" alt="NodeJS" height="32" width="40" src="https://cdn.simpleicons.org/node.js/dddddd/404040" />
-    <img align="center" alt="PostgreSQL" height="32" width="40" src="https://cdn.simpleicons.org/postgresql/dddddd/404040" />
+    <img align="center" alt="Bootstrap" height="40" width="48" src="https://cdn.simpleicons.org/bootstrap/eeeeee/3e4754" />
+    <img align="center" alt="JavaScript" height="32" width="40" src="https://cdn.simpleicons.org/javascript/eeeeee/3e4754" />
+    <img align="center" alt="React" height="32" width="40" src="https://cdn.simpleicons.org/react/eeeeee/3e4754" />
+    <img align="center" alt="Redux" height="32" width="40" src="https://cdn.simpleicons.org/redux/eeeeee/3e4754" />
+    <img align="center" alt="TypeScript" height="32" width="40" src="https://cdn.simpleicons.org/typescript/eeeeee/3e4754" />
+    <img align="center" alt="Sass" height="32" width="40" src="https://cdn.simpleicons.org/sass/eeeeee/3e4754" />
+    <img align="center" alt="Angular" height="32" width="40" src="https://cdn.simpleicons.org/angular/eeeeee/3e4754" />
+    <img align="center" alt="NodeJS" height="32" width="40" src="https://cdn.simpleicons.org/node.js/eeeeee/3e4754" />
+    <img align="center" alt="PostgreSQL" height="32" width="40" src="https://cdn.simpleicons.org/postgresql/eeeeee/3e4754" />
 </div></h4>
 
 <br>
