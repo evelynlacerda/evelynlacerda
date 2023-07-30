@@ -6,7 +6,8 @@
 <h1 align="center">✨ Welcome to my GitHub! ✨</div></h1>
 <h4 align="center">
     
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevelynlacerda%2Fevelynlacerda&label=Visits&countColor=%2352ac96&style=flat-square&labelStyle=none)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevelynlacerda&countColor=%2352ac96)
+
 </h4>
 
 <br>
