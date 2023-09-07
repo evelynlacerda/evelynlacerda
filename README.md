@@ -19,6 +19,7 @@
     <img align="center" alt="HTML5" height="32" width="40" src="https://cdn.simpleicons.org/html5" />
     <img align="center" alt="CSS3" height="32" width="40" src="https://cdn.simpleicons.org/css3" />
     <img align="center" alt="Bootstrap" height="40" width="48" src="https://cdn.simpleicons.org/bootstrap/eeeeee/3e4754" />
+    <img align="center" alt="Tailwind" height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss/eeeeee/3e4754" />
     <img align="center" alt="Sass" height="32" width="40" src="https://cdn.simpleicons.org/sass" />
     <img align="center" alt="JavaScript" height="32" width="40" src="https://cdn.simpleicons.org/javascript" />
     <img align="center" alt="React" height="32" width="40" src="https://cdn.simpleicons.org/react/eeeeee/3e4754" />
@@ -40,13 +41,13 @@
 
 <br>
 
-<h4 align="center">
+<p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/evelynlacerda/evelynlacerda/blob/output/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/evelynlacerda/evelynlacerda/blob/output/github-contribution-grid-snake.svg" />
         <img alt="github-snake" src="https://github.com/evelynlacerda/evelynlacerda/blob/output/github-contribution-grid-snake.svg" />
     </picture>
-</h4>
+</p>
 
 <br>
 <hr>
