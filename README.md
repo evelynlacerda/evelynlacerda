@@ -42,11 +42,9 @@
 <br>
 
 <p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/evelynlacerda/evelynlacerda/blob/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/evelynlacerda/evelynlacerda/blob/output/github-contribution-grid-snake.svg" />
-        <img alt="github-snake" src="https://github.com/evelynlacerda/evelynlacerda/blob/output/github-contribution-grid-snake.svg" />
-    </picture>
+
+![snake gif](https://github.com/evelynlacerda/evelynlacerda/blob/output/github-contribution-grid-snake-dark.svg)
+
 </p>
 
 <br>
