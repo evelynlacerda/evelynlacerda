@@ -14,13 +14,15 @@
 
 <h3 align="center">💻 Technologies I've been studying:</h3>
 <h4 align="center"><div style="display: inline_block">
-    <img align="center" alt="Figma" height="32" width="40" src="https://cdn.simpleicons.org/figma/cc5b4e" />
+    <img align="center" alt="Photoshop" height="32" width="40" src="https://cdn.simpleicons.org/adobephotoshop" />
+    <img align="center" alt="Figma" height="32" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" />
     <img align="center" alt="Git" height="32" width="40" src="https://cdn.simpleicons.org/git" />
     <img align="center" alt="HTML5" height="32" width="40" src="https://cdn.simpleicons.org/html5" />
     <img align="center" alt="CSS3" height="32" width="40" src="https://cdn.simpleicons.org/css3" />
-    <img align="center" alt="Bootstrap" height="40" width="48" src="https://cdn.simpleicons.org/bootstrap/eeeeee/3e4754" />
+    <img align="center" alt="Bootstrap" height="40" width="48" src="https://cdn.simpleicons.org/bootstrap" />
     <img align="center" alt="Tailwind" height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss/eeeeee/3e4754" />
     <img align="center" alt="Sass" height="32" width="40" src="https://cdn.simpleicons.org/sass" />
+    <div height="2"></div><br>
     <img align="center" alt="JavaScript" height="32" width="40" src="https://cdn.simpleicons.org/javascript" />
     <img align="center" alt="React" height="32" width="40" src="https://cdn.simpleicons.org/react/eeeeee/3e4754" />
     <img align="center" alt="Redux" height="32" width="40" src="https://cdn.simpleicons.org/redux/eeeeee/3e4754" />
