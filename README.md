@@ -20,7 +20,7 @@
     <img align="center" alt="HTML5" height="32" width="40" src="https://cdn.simpleicons.org/html5" />
     <img align="center" alt="CSS3" height="32" width="40" src="https://cdn.simpleicons.org/css3" />
     <img align="center" alt="Bootstrap" height="40" width="48" src="https://cdn.simpleicons.org/bootstrap" />
-    <img align="center" alt="Tailwind" height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss/eeeeee/3e4754" />
+    <img align="center" alt="Tailwind" height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss" />
     <img align="center" alt="Sass" height="32" width="40" src="https://cdn.simpleicons.org/sass" />
     <div height="2"></div><br>
     <img align="center" alt="JavaScript" height="32" width="40" src="https://cdn.simpleicons.org/javascript" />
