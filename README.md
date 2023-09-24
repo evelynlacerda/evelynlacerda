@@ -1,12 +1,12 @@
 <h6 align="center">
 
-![GhostGlass2](https://github.com/evelynlacerda/evelynlacerda/assets/109745342/fc08e03a-683f-4537-99df-2118d3a69774)
+![GhostGlass3](https://github.com/evelynlacerda/evelynlacerda/assets/109745342/5b882613-7361-4979-af4b-f124945100fd)
 
 </h6>
 <h1 align="center">✨ Welcome to my GitHub! ✨</div></h1>
 <h4 align="center">
     
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevelynlacerda&labelColor=%230c1014&countColor=%2352ac96)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevelynlacerda&labelColor=%23151515&countColor=%2392d534)
 
 </h4>
 
@@ -36,9 +36,9 @@
 
 <h3 align="center">📋 My Github Stats:</h3>
 <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=gotham&border_radius=4&hide_border=true&mode=weekly"><br>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&border_radius=none&hide_border=true">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=gotham&border_radius=none&hide_border=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=ocean_dark&background=151515&border_radius=4&hide_border=true&mode=weekly"><br>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&include_all_commits=true&count_private=true&theme=ocean_dark&bg_color=151515&border_radius=none&hide_border=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=ocean_dark&bg_color=151515&border_radius=none&hide_border=true"/>
 </p>
 
 <br>
