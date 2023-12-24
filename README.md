@@ -20,10 +20,12 @@
     <img align="center" alt="HTML5" height="32" width="40" src="https://cdn.simpleicons.org/html5" />
     <img align="center" alt="CSS3" height="32" width="40" src="https://cdn.simpleicons.org/css3" />
     <img align="center" alt="Bootstrap" height="40" width="48" src="https://cdn.simpleicons.org/bootstrap" />
-    <img align="center" alt="Tailwind" height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss/eeeeee/3e4754" />
     <img align="center" alt="Sass" height="32" width="40" src="https://cdn.simpleicons.org/sass" />
+    <img align="center" alt="NPM" height="32" width="40" src="https://cdn.simpleicons.org/npm" />
+    <img align="center" alt="Jest" height="32" width="40" src="https://cdn.simpleicons.org/jest" />
     <div height="2"></div><br>
     <img align="center" alt="JavaScript" height="32" width="40" src="https://cdn.simpleicons.org/javascript" />
+    <img align="center" alt="Tailwind" height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss/eeeeee/3e4754" />
     <img align="center" alt="React" height="32" width="40" src="https://cdn.simpleicons.org/react/eeeeee/3e4754" />
     <img align="center" alt="Redux" height="32" width="40" src="https://cdn.simpleicons.org/redux/eeeeee/3e4754" />
     <img align="center" alt="TypeScript" height="32" width="40" src="https://cdn.simpleicons.org/typescript/eeeeee/3e4754" />
@@ -62,7 +64,7 @@
 
 <h4 align="center">
     <img height="32" width="32" src="https://badges.pufler.dev/contributors/evelynlacerda/evelynlacerda?size=50&padding=5&perRow=10&bots=true" />&nbsp&nbsp&nbsp
-    <a href="https://instagram.com/evycode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230c1014?style=for-the-badge&logo=instagram&logoColor=e4405f" target="_blank"></a>
     <a href="https://www.linkedin.com/in/evelynlacerda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230c1014?style=for-the-badge&logo=linkedin&logoColor=0a66c2" target="_blank"></a>
-    <a href = "mailto:evelyndslacerda@gmail.com"><img src="https://img.shields.io/badge/Gmail-0c1014?style=for-the-badge&logo=gmail&logoColor=ea4335" target="_blank"></a>
+    <a href="https://instagram.com/evycode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230c1014?style=for-the-badge&logo=instagram&logoColor=e4405f" target="_blank"></a>
+    <a href = "mailto:evelyndsl@outlook.com"><img src="https://img.shields.io/badge/Outlook-0c1014?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4" target="_blank"></a>
 </h4>
