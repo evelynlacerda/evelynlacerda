@@ -25,10 +25,10 @@
     <img align="center" alt="Jest" height="32" width="40" src="https://cdn.simpleicons.org/jest" />
     <div height="2"></div><br>
     <img align="center" alt="JavaScript" height="32" width="40" src="https://cdn.simpleicons.org/javascript" />
-    <img align="center" alt="Tailwind" height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss/eeeeee/3e4754" />
-    <img align="center" alt="React" height="32" width="40" src="https://cdn.simpleicons.org/react/eeeeee/3e4754" />
+    <img align="center" alt="Tailwind" height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss" />
+    <img align="center" alt="React" height="32" width="40" src="https://cdn.simpleicons.org/react" />
+    <img align="center" alt="TypeScript" height="32" width="40" src="https://cdn.simpleicons.org/typescript" />
     <img align="center" alt="Redux" height="32" width="40" src="https://cdn.simpleicons.org/redux/eeeeee/3e4754" />
-    <img align="center" alt="TypeScript" height="32" width="40" src="https://cdn.simpleicons.org/typescript/eeeeee/3e4754" />
     <img align="center" alt="Angular" height="32" width="40" src="https://cdn.simpleicons.org/angular/eeeeee/3e4754" />
     <img align="center" alt="NodeJS" height="32" width="40" src="https://cdn.simpleicons.org/node.js/eeeeee/3e4754" />
     <img align="center" alt="PostgreSQL" height="32" width="40" src="https://cdn.simpleicons.org/postgresql/eeeeee/3e4754" />
