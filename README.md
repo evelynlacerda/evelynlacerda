@@ -64,7 +64,6 @@
 
 <h4 align="center">
     <img height="32" width="32" src="https://badges.pufler.dev/contributors/evelynlacerda/evelynlacerda?size=50&padding=5&perRow=10&bots=true" />&nbsp&nbsp&nbsp
-    <a href="https://www.linkedin.com/in/evelynlacerda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230c1014?style=for-the-badge&logo=linkedin&logoColor=0a66c2" target="_blank"></a>
-    <a href="https://instagram.com/evycode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230c1014?style=for-the-badge&logo=instagram&logoColor=e4405f" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/evelynslacerda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230c1014?style=for-the-badge&logo=linkedin&logoColor=0a66c2" target="_blank"></a>
     <a href = "mailto:evelyndsl@outlook.com"><img src="https://img.shields.io/badge/Outlook-0c1014?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4" target="_blank"></a>
 </h4>
