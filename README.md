@@ -6,14 +6,14 @@
     ✨ Evelyn Lacerda ✨
 </h2>
 
-### Transformando ideias em interfaces funcionais, acessíveis e modernas.
+### Building modern, accessible and high-quality interfaces.
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevelynlacerda&labelColor=%23151515&countColor=%238957b2)
 
 </div>
 
 &nbsp;
 
-## 🚀 Stack & Principais Skills
+## 🚀 Tech Stack & Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,17 +32,17 @@
 
 &nbsp;
 
-### 📌 O que você encontra por aqui
+### 📌 What You'll Find Here
 
-- Interfaces modernas com **React + TypeScript**  
-- Projetos utilizando **Tailwind, Sass e Bootstrap**  
-- Componentes, hooks e libs próprias  
-- Estudos, testes e experimentos com **Jest**  
-- Layouts e protótipos que nascem primeiro no **Figma**  
+- Modern interfaces built with **React + TypeScript**  
+- Projects using **Tailwind, Sass and Bootstrap**  
+- Custom components, hooks and small libraries  
+- Testing practice with **Jest**  
+- UI/UX prototypes crafted in **Figma**
 
 &nbsp;
 
-### 🔗 Links Importantes
+### 🔗 Useful Links
 
 <!-- - **Portfólio:** [evelynlacerda.com.br](https://evelynlacerda.com.br) -->
 - **LinkedIn:** [in/evelynlaerda](https://www.linkedin.com/in/evelynslacerda)
@@ -63,6 +63,6 @@
 
 &nbsp;
 
-✨ *Sempre explorando novas tecnologias e evoluindo meus projetos.*  
+✨ *Always learning, building and improving.*  
 
 </div>
