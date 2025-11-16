@@ -2,9 +2,9 @@
 
 ![GhostGlass3](https://github.com/evelynlacerda/evelynlacerda/assets/109745342/5b882613-7361-4979-af4b-f124945100fd)
 
-<h2 align="center">
-    ✨ Evelyn Lacerda ✨
-</h2>
+<h1 align="center">
+    ✨ Welcome to my GitHub! ✨
+</h1>
 
 ### Building modern, accessible and high-quality interfaces.
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevelynlacerda&labelColor=%23151515&countColor=%238957b2)
