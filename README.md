@@ -53,9 +53,13 @@
     
 ## 📁 Stats
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=ocean_dark&background=151515&border_radius=4&hide_border=true"><br>
+<!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=ocean_dark&background=151515&border_radius=4&hide_border=true"><br>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&include_all_commits=true&count_private=true&theme=ocean_dark&bg_color=151515&border_radius=none&hide_border=true">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=ocean_dark&bg_color=151515&border_radius=none&hide_border=true"/> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=ocean_dark&bg_color=151515&border_radius=none&hide_border=true"/> -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=evelynlacerda&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evelynlacerda&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evelynlacerda&theme=apprentice)
 
 &nbsp;
 
