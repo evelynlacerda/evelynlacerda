@@ -13,7 +13,8 @@
 
 &nbsp;
 
-## 🚀 Tech Stack & Skills
+## 🚀 Techs, langs and tools
+> Tools and technologies I have experience with and continue to explore
 
 <!-- <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,24 +31,31 @@
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
 </p> -->
 
-![My Skills](https://skillicons.dev/icons?i=figma,git,html,css,sass,tailwindcss,bootstrap,js,react,ts,jest,npm,nodejs,prisma)
+![My Skills](https://skillicons.dev/icons?i=figma,notion,git,github,vscode,npm,postman,html,css,tailwindcss,sass,react,nextjs,javascript,typescript,py,nodejs,express,prisma,postgres,sqlite,neon)
 
 &nbsp;
 
-### 📌 What You'll Find Here
-
-- Modern interfaces built with **React + TypeScript**  
-- Projects using **Tailwind, Sass and Bootstrap**  
-- Custom components, hooks and small libraries  
-- Testing practice with **Jest**  
-- UI/UX prototypes crafted in **Figma**
+<p align="right">
+    <h2 align="right">📌 What You'll Find Here</h2>
+    <p align="right">
+        Modern interfaces built with <strong>React + TypeScript</strong> •<br>
+        Projects using <strong>Tailwind, Sass and Bootstrap</strong> •<br>
+        Custom components, hooks and small libraries •<br>
+        Testing practice with <strong>Jest</strong> •<br>
+        UI/UX prototypes crafted in <strong>Figma</strong> •<br>
+    </p>
+</p>
 
 &nbsp;
 
-### 🔗 Useful Links
-
+## 🔎 Find me
 <!-- - **Portfólio:** [evelynlacerda.com.br](https://evelynlacerda.com.br) -->
-- **LinkedIn:** [in/evelynlaerda](https://www.linkedin.com/in/evelynslacerda)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/evelynslacerda">
+    <img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 &nbsp;
 
@@ -55,13 +63,13 @@
     
 ## 📁 Stats
 
-<!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=ocean_dark&background=151515&border_radius=4&hide_border=true"><br>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=ocean_dark&background=151515&border_radius=4&hide_border=true"><br>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&include_all_commits=true&count_private=true&theme=ocean_dark&bg_color=151515&border_radius=none&hide_border=true">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=ocean_dark&bg_color=151515&border_radius=none&hide_border=true"/> -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=ocean_dark&bg_color=151515&border_radius=none&hide_border=true"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=evelynlacerda&theme=ocean_dark)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=evelynlacerda&theme=ocean_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evelynlacerda&theme=ocean_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evelynlacerda&theme=ocean_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evelynlacerda&theme=ocean_dark)-->
 
 &nbsp;
 
