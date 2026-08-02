@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td>
+    <td style="border: none">
       <h2>About me</h2>
       <p>Front-end Developer with a degree in Systems Analysis and Development, currently expanding my skills toward becoming a Full Stack Developer.
       <p>Beyond programming, I'm passionate about UI design and user experience. I enjoy turning ideas into Figma prototypes, focusing on usability, accessibility, and creating intuitive designs that provide a great experience.</p>
@@ -35,7 +35,7 @@
   </tr>
 </table>
 
----
+## 
 
 ### Main Stacks
 
@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
----
+##
 
 <div align="center">
 <br>
