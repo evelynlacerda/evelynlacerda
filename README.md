@@ -22,17 +22,15 @@
 </div>
 
 <table>
-  <tr>
-    <td style="border: none">
-      <h2>About me</h2>
+    <td>
+      <h3>About Me</h3>
       <p>Front-end Developer with a degree in Systems Analysis and Development, currently expanding my skills toward becoming a Full Stack Developer.
       <p>Beyond programming, I'm passionate about UI design and user experience. I enjoy turning ideas into Figma prototypes, focusing on usability, accessibility, and creating intuitive designs that provide a great experience.</p>
-      <p>I dedicate part of my studies to building projects with a positive social impact, especially initiatives focused on animal welfare and protection. I'm always looking to learn new technologies, grow as a developer, and contribute to projects that make a meaningful difference.</p>
+      <p>I dedicate part of my studies to building projects with a positive social impact, especially initiatives focused on animal welfare and protection. I'm always looking to learn new technologies, grow as a developer, and contribute to projects that make a meaningful difference.<br><br></p>
     </td>
     <td width="35%">
       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2c1dmo2bjk3MnN5MWdrc3RjbDNzdnBmbGhrMDBwMzRnYXBhZjg2cCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/0FB4a2z6B3ooAUIQXS/giphy.gif" />
     </td>
-  </tr>
 </table>
 
 ## 
@@ -80,9 +78,8 @@
 <div align="center">
 <br>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=ocean_dark&background=151515&border_radius=4&hide_border=true"><br> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&include_all_commits=true&count_private=true&theme=ocean_dark&bg_color=151515&border_radius=none&hide_border=true"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=ocean_dark&bg_color=151515&border_radius=none&hide_border=true"/>
-
-&nbsp;
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=evelynlacerda&theme=ocean_dark&background=151515&border_radius=4&hide_border=true"><br>
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evelynlacerda&show_icons=true&include_all_commits=true&count_private=true&theme=ocean_dark&bg_color=151515&border_radius=none&hide_border=true"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynlacerda&layout=compact&langs_count=7&theme=ocean_dark&bg_color=151515&border_radius=none&hide_border=true"/> -->
 
 ![snake gif](https://github.com/evelynlacerda/evelynlacerda/blob/output/github-contribution-grid-snake-dark.svg)
 
